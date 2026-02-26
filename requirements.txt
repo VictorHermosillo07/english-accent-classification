@@ -1,0 +1,20 @@
+# Core data science packages
+jupyter
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Audio processing (for accent classification)
+librosa
+soundfile
+
+# Deep learning (optional - uncomment if needed)
+# tensorflow
+# torch
+# torchaudio
+
+# Natural language processing
+nltk
+# transformers
