@@ -37,6 +37,10 @@ wheels/
 # *.h5
 # *.pkl
 # *.pickle
+Datasets/
+.env
+gael_code.py
+P6 - Scope and Deliverables.pdf
 
 # Virtual environment
 venv/

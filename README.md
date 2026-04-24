@@ -57,11 +57,13 @@ git checkout benjamin  # For Benjamin
 ## Usage
 
 1. Activate the virtual environment:
+
    ```bash
    source venv/bin/activate
    ```
 
 2. Start Jupyter:
+
    ```bash
    jupyter notebook
    ```
