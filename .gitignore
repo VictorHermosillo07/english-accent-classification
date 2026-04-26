@@ -37,7 +37,7 @@ wheels/
 # *.h5
 # *.pkl
 # *.pickle
-Datasets/
+datasets/
 .env
 gael_code.py
 P6 - Scope and Deliverables.pdf
